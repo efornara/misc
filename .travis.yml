@@ -2,5 +2,7 @@ language:
 	- cpp
 	- android
 script:
+	echo "SDK..."
 	env|grep SDK
+	echo "NDK..."
 	env|grep NDK
