@@ -1,7 +1,5 @@
 language: android
 os:
   - linux
-  - osx
 script:
-  - if [ "$TRAVIS_OS_NAME" == osx ] ; then export LDFLAGS="osx" ; fi
-  - echo LDFLAGS: $LDFLAGS
+  - echo
