@@ -1,9 +1,4 @@
-language: cpp
-compiler:
-  - clang
-  - gcc
-os:
-  - linux
-  - osx
+language: android
 script:
-  - $CXX --version
+  - env | grep NDK
+  - env | grep SDK
