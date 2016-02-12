@@ -1,4 +1,3 @@
 language: android
 script:
-  - set | grep NDK
-  - set | grep SDK
+  - uname -s
