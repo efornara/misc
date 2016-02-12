@@ -1,3 +1,6 @@
 language: android
+os:
+  - linux
+  - osx
 script:
   - uname -s
