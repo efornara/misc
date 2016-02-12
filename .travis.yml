@@ -3,4 +3,5 @@ os:
   - linux
   - osx
 script:
-  - uname -s
+  - if [ "$TRAVIS_OS_NAME" == osx ] ; then export LDFLAGS="osx" ; fi
+  - echo LDFLAGS: $LDFLAGS
