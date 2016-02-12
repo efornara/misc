@@ -1,0 +1,6 @@
+language:
+	- cpp
+	- android
+script:
+	env|grep SDK
+	env|grep NDK
