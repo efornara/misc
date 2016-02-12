@@ -1,4 +1,4 @@
 language: android
 script:
-  - env | grep NDK
-  - env | grep SDK
+  - set | grep NDK
+  - set | grep SDK
