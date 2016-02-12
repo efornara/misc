@@ -3,3 +3,5 @@ os:
   - linux
 script:
   - echo
+notifications:
+  email: false
