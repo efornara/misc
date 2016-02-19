@@ -1,7 +1,8 @@
 language: android
 os:
   - linux
+  - osx
 script:
-  - echo
+  - echo PLATFORM="$TRAVIS_OS_NAME"
 notifications:
   email: false
