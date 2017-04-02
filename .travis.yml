@@ -3,7 +3,7 @@ os:
   - linux
 install:
   - sudo apt-get update
-  - sudo apt-get install libgles2-mesa-dev
+  - sudo apt-get install libgles2-mesa-dev-lts-raring
 script:
   - make ci
 notifications:
