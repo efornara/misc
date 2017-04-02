@@ -4,24 +4,13 @@ language: cpp
 os:
   - linux
 addons:
-  # godot dependencies.
   apt:
-    sources:
-      - ubuntu-toolchain-r-test
-      - llvm-toolchain-trusty-3.9
     packages:
       - build-essential
       - scons
       - pkg-config
-      - libx11-dev
-      - libxcursor-dev
+	  - libgles2-mesa-dev
       - libasound2-dev
-      - libfreetype6-dev
-      - libgl1-mesa-dev
-      - libglu1-mesa-dev
-      - libssl-dev
-      - libxinerama-dev
-      - libxrandr-dev
 script:
   - make ci
 notifications:
