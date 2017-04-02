@@ -2,7 +2,7 @@ language: cpp
 os:
   - linux
 addons:
-  # godot dependencies
+  # godot dependencies.
   apt:
     sources:
       - ubuntu-toolchain-r-test
