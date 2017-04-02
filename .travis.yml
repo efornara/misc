@@ -9,7 +9,7 @@ addons:
       - build-essential
       - scons
       - pkg-config
-	  - libgles2-mesa-dev
+      - libgles2-mesa-dev
       - libasound2-dev
 script:
   - make ci
