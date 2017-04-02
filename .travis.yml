@@ -2,6 +2,6 @@ language: cpp
 os:
   - linux
 script:
-  - echo PLATFORM="$TRAVIS_OS_NAME"
+  - make ci
 notifications:
   email: false
