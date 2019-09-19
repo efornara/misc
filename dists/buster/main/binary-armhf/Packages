@@ -1,0 +1,16 @@
+Package: efornara-test
+Version: 1.0.0-1
+Architecture: armhf
+Priority: optional
+Section: devel
+Filename: pool/main/e/efornara-test/efornara-test_1.0.0-1_armhf.deb
+Size: 896
+SHA256: 45d3640e92b55c7e5d7196313932ec6f522d33393973c6a691e463df146cf409
+SHA1: 2d0e5499d22414646e8bc6e36d8dddec97a344d9
+MD5sum: db7ebab3877c28bd83f03442f0c31752
+Description: Short description
+ Long description, possibly
+ multiline.
+Maintainer: Emanuele Fornara <efornara@users.sourceforge.net>
+Installed-Size: 36
+

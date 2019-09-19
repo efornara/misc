@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: godot2-rpi
+Label: godot2-rpi
+Codename: buster
+Date: Thu, 19 Sep 2019 19:51:25 UTC
+Architectures: armhf
+Components: main
+Description: Godot 2.1.x for Raspbian
+MD5Sum:
+ 488a3fa2909ee9041aa376d602c2599e 486 main/binary-armhf/Packages
+ 21b2dd841272fb3b1a6006d6a8a39213 351 main/binary-armhf/Packages.gz
+ 2be6215b59582f901e8bfd653455a48d 111 main/binary-armhf/Release
+SHA1:
+ 1c3b107edf40c800fc15a3501121d445bb349394 486 main/binary-armhf/Packages
+ fb4d9ca004be6b712d03d379709cfd814020166c 351 main/binary-armhf/Packages.gz
+ 1f68834b7250b9cc10e0cd887da91e527c8d989f 111 main/binary-armhf/Release
+SHA256:
+ 114beb10bf920d2f869ddb5571d19c724534d671a377e2a8f7fa6ea9305f19ec 486 main/binary-armhf/Packages
+ b6c0777bf3897901dc08ffc62c84e3e4a58c8bd4367a794fc0e041f3f846cace 351 main/binary-armhf/Packages.gz
+ 03904b06d7ea0edb28db46efcbc415c7fd9cfbfb38898010f10cde4b91ea0495 111 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEspJhYfD4nO6KU99GBo05RKjIab4FAl2D3D0ACgkQBo05RKjI
+ab7i9g//RyDAous/iHq9yxhhkKU1JtPPL0bjpmGyPst9KACaqyiog1S/Tq9d3CTx
+mI/JMuy8r/jEEaqxmgpsh6YNlLANN+GinL4wbPqK9fCgMjecbpOCG4XkXpgjYr+k
+RlevyfwhpE4S/zwJnLvdNPEytbGDQSB/kGK0LBFpiV82ZqFBcqqImwI5qE2mkNgG
+WlhJqhCQ7T/7MZ6tIZdf+puBzaCGO3xAkEO09QI3xjskBx60N9b2ErMzwX/BiHB+
+J35gDwrquIU1mSBV1u0OFtn4RXhrnVNGotgRXUprBC+sCOciDkPCQSKb+gARqosI
+4UYhjNFXo3Trz87lnN7oQ4ArhAAfjCoiJI/LRRiC06vph2DAc8oqjuzu04EpZ1yH
+YjEGAWsohpum5X0lSpVq97Siq/JzVzK3RSBBtvr8tBzRkNKPLhYxF8QCQgoApov/
+11gJVb2PYmrUPVKNOqrx6kHI7UX9moHcAzbaqTbE0PCphmibT+5xvKtK6qGYGGhG
+qxulVzzbHrJxXA0InWQSmQalMxiB6gyHRBxlzqJvMS+8fvoeXnkZswWJQGt33C1g
+1AMivB18SM/omH473DeVgoDp2gBJDTT71vYqMrKNHN9tDURLKEbBuXNp5Ny7hUHt
+PUB/SUV25j5IcfNHFctGKb5pmWqNzgNVVitIYbCi7qqB/jxl3bk=
+=TXND
+-----END PGP SIGNATURE-----
